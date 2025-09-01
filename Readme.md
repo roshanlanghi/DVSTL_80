@@ -1,24 +1,26 @@
-# Applied Data Structures and Algorithms (Assignments)
+# Data Visualisation and Storytelling (Assignments)
 
-This repository contains implementations of **DATA VISUALISATION AND STORY TELLING ** assignment as part of the **TY BTech Computer Engineering SEM - V ** coursework at **Sanjivani College of Engineering, Kopargaon**.  
+This repository contains implementations of **Data Visualisation and Storytelling (DVSTL)** assignments as part of the **TY BTech Computer Engineering SEM - V** coursework at **Sanjivani College of Engineering, Kopargaon**.
 
 ---
 
 ## 📂 Assignment Problems
-| No. | assignment name | Status | Code Link |
-|-----|---------|----------|--------|-----------|
-|1|Assignment 1|completed| [View Code](./Assignment1)|
+| No. | Assignment Name | Status    | Code Link                |
+|-----|-----------------|-----------|--------------------------|
+| 1   | Assignment 1    | Completed | [View Code](./Assignment1) |
+
 ---
 
 ## 🛠️ Technologies Used
-- **Language:** C++
-- **IDE/Editor:** VS Code
+- **Language:** Python
+- **IDE/Editor:** VS Code, Jupyter Notebook
 - **Version Control:** Git & GitHub
 
 ---
 
 ## 🚀 How to Run
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/applied-dsa.git
-   cd applied-dsa
+   
+   git clone https://github.com/roshanlsnghi/dvstl.git
+   cd dvstl
+   
