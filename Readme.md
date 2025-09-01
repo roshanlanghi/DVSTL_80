@@ -7,7 +7,7 @@ This repository contains implementations of **Data Visualisation and Storytellin
 ## 📂 Assignment Problems
 | No. | Assignment Name | Status    | Code Link                |
 |-----|-----------------|-----------|--------------------------|
-| 1   | Assignment 1    | Completed | [View Code](./Assignment1) |
+| 1   | Assignment 1    | Completed | [View Assignment](./Assignment1) |
 
 ---
 
